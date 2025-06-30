@@ -1,4 +1,4 @@
-# Covid-19-Analysis
+
 # 📊 COVID-19 Data Analysis & Visualization
 
 This project presents an in-depth analysis and visualization of the COVID-19 pandemic using the **OWID (Our World in Data) COVID-19 Dataset**. It leverages `pandas`, `matplotlib`, `seaborn`, and `numpy` to explore case trends, death rates, vaccination efforts, and other key metrics across different countries and continents.
